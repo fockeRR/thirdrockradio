@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThirdRockRadio Widget</string>
+    <string name="on">Play</string>
+    <string name="off">Stop</string>
+    <string name="stream">http://2513.live.streamtheworld.com/THIRD_ROCK_SC</string>
+    <string name="about">Third Rock Radio powered by NASA is the best radio station in Universe.\n\nThis unofficial lightweight widget to listen your favorite radio on your smartphone.\n\nJust add \'ThirdRockRadio\' &lt;b&gt;widget on your homescreen!&lt;/b&gt;</string>
+	<string name="dots">...</string>
+</resources>
